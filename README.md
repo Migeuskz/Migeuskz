@@ -1,4 +1,6 @@
-## Hi there 👋
+## Hola!!! Soy Miguel Angel Sanchez P. 👋
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Convertir+ideas+en+experiencias+interactivas+y+funcionales.)](https://git.io/typing-svg)
 
 <!--
 **Migeuskz/Migeuskz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
