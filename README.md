@@ -24,9 +24,25 @@ Actualmente curso el décimo cuatrimestre de la Ingeniería en Desarrollo y Gest
 <p>
 <img alt="Tailwind CSS" src="https://img.shields.io/badge/Tailwind%20CSS-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white">
 </a>
-
 <img alt="React" src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB"></a> 
 </p>
+
+## 💻 Software y herramientas
+
+<p>
+<img alt="Illustrator" src="https://img.shields.io/badge/adobe%20illustrator-%23FF9A00.svg?style=for-the-badge&logo=adobe%20illustrator&logoColor=white"></a>
+<img alt="Figma" src="https://img.shields.io/badge/Figma-F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white">
+</a>
+<img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white"></a>   
+</p>
+
+## 💼 Porfolio y CV
+
+<p>
+<a href="https://github.com/Migeuskz"><img alt="GitHub" src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white"></a>
+<a href="https://www.linkedin.com/in/miguel-papalotzi-devfrontend/"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+</p>
+
 <!--
 **Migeuskz/Migeuskz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
